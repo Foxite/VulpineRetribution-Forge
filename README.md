@@ -13,6 +13,9 @@ This is mostly based on the example mod included in the MDK, which is licensed L
 The parts I wrote (all 10 lines of it) are licensed AGPL 3.0. The short version is that if you distribute a fork of this mod, you must also distribute the source code.
 Notably, under Affero, hosting a server with this mod installed constitutes distribution.
 
+### Modpack permission
+Granted.
+
 ### Disclaimer
 No foxes were harmed in the making of this mod. I did kill several chickens and a sheep. See VulpineRetribution.java, line 26 for more details.
 
