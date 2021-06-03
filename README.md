@@ -14,7 +14,7 @@ The parts I wrote (all 10 lines of it) are licensed AGPL 3.0. The short version 
 Notably, under Affero, hosting a server with this mod installed constitutes distribution.
 
 ### Disclaimer
-No foxes were harmed in the making of this mod. I did kill several chickens and a sheep. See VulpineRetribution.java, line 41 for more details.
+No foxes were harmed in the making of this mod. I did kill several chickens and a sheep. See VulpineRetribution.java, line 26 for more details.
 
 The mod icon is a composite of [this icon](https://svgsilh.com/image/305229.html) which is public domain,
 and [this icon](https://thenounproject.com/term/fox-tail/135949/) by Lucid Formation, licensed CC-BY.
